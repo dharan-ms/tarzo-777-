@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "quake-iii-arena",
+    "name": "Quake III Arena (q3js)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/quake-iii-arena.jpg",
+    "url": "https://q3js.com/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "QIA",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "troyedwardsjr-z2rs",
+    "name": "Zelda II: The Adventure of Link (z2rs)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-troyedwardsjr-z2rs.jpg",
+    "url": "https://z2rs.com/",
+    "platform": "NES",
+    "facts": [
+      "needs your game files"
+    ],
+    "mark": "ZIT",
+    "tag": "CLASSIC"
+  },
+  {
+    "id": "call-of-duty-black-ops-zombies",
+    "name": "Call of Duty: Black Ops Zombies",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-call-of-duty-black-ops-zombies.jpg",
+    "url": "http://vel.gg/bo1z",
+    "platform": "PC",
+    "facts": [
+      "plays instantly"
+    ],
+    "mark": "COD",
+    "tag": "ZOMBIES"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-2",
+    "name": "Call of Duty: Modern Warfare 2",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-call-of-duty-modern-warfare-2.jpg",
+    "url": "http://ovz-game-production.up.railway.app/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "COD",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "command-conquer-generals-zero-hour",
+    "name": "Command & Conquer: Generals Zero Hour",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-generals-zero-hour.jpg",
+    "url": "https://generals.wasm.ltd/",
+    "platform": "PC",
+    "facts": [
+      "needs your game files",
+      "multiplayer"
+    ],
+    "mark": "CCG",
+    "tag": "STRATEGY"
+  },
+  {
+    "id": "command-conquer-red-alert-2",
+    "name": "Command & Conquer: Red Alert 2",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-red-alert-2.jpg",
+    "url": "https://chronodivide.com/",
+    "platform": "PC",
+    "facts": [
+      "multiplayer"
+    ],
+    "mark": "CCR",
+    "tag": "STRATEGY"
+  },
+  {
+    "id": "counter-strike-1-6",
+    "name": "Counter-Strike 1.6",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-1-6.jpg",
+    "url": "https://csjs.live/",
+    "platform": "PC",
+    "facts": [
+      "multiplayer"
+    ],
+    "mark": "CS1",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "counter-strike-source-bunnyhop-bunnyhop-lol",
+    "name": "Counter-Strike: Source Bunnyhop (bunnyhop.lol)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+    "url": "https://bunnyhop.lol/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "CSS",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "counter-strike-source-surf-surfd",
+    "name": "Counter-Strike: Source Surf (Surfd)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-surf-surfd.jpg",
+    "url": "http://surfd.net/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "CSS",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "crash-bash-online",
+    "name": "Crash Bash Online",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-bash-online.jpg",
+    "url": "https://crashbash.app/",
+    "platform": "PS1",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "CBO",
+    "tag": "CLASSIC"
+  },
+  {
+    "id": "diablo",
+    "name": "Diablo (diablo_web)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-diablo.jpg",
+    "url": "http://johnimril.github.io/diablo_web/",
+    "platform": "PC",
+    "facts": [
+      "free demo, no game files needed"
+    ],
+    "mark": "DDW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "doom-multiplayer-silent-space-marine",
+    "name": "Doom Multiplayer (Silent Space Marine)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-doom-multiplayer-silent-space-marine.jpg",
+    "url": "https://silentspacemarine.com/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "DMS",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "grand-theft-auto-iii",
+    "name": "Grand Theft Auto III",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-iii.jpg",
+    "url": "https://wasmarcade.com/gta3",
+    "platform": "PC",
+    "facts": [],
+    "mark": "GTA",
+    "tag": "OPEN WORLD"
+  },
+  {
+    "id": "grand-theft-auto-v",
+    "name": "Grand Theft Auto V",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-v.jpg",
+    "url": "https://gta.deloskiyt.pl/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "GTA",
+    "tag": "OPEN WORLD"
+  },
+  {
+    "id": "grand-theft-auto-vice-city",
+    "name": "Grand Theft Auto: Vice City",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-vice-city.jpg",
+    "url": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
+    "platform": "PC",
+    "facts": [
+      "needs your game files"
+    ],
+    "mark": "GTA",
+    "tag": "OPEN WORLD"
+  },
+  {
+    "id": "half-life-pixelsuft",
+    "name": "Half-Life (pixelsuft)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-pixelsuft.jpg",
+    "url": "http://pixelsuft.github.io/hl/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "HLP",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "half-life-and-counter-strike-1-6-webxash",
+    "name": "Half-Life and Counter-Strike 1.6 (WebXash)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-and-counter-strike-1-6-webxash.jpg",
+    "url": "http://x8bitrain.github.io/webXash/",
+    "platform": "PC",
+    "facts": [
+      "free demo, no game files needed"
+    ],
+    "mark": "HLA",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "halo-combat-evolved",
+    "name": "Halo: Combat Evolved",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved.jpg",
+    "url": "https://mitchellhynes.com/halo/halo.html",
+    "platform": "Xbox",
+    "facts": [
+      "needs your game files",
+      "multiplayer"
+    ],
+    "mark": "HCE",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "halo-combat-evolved-mobile-hcemobile",
+    "name": "Halo: Combat Evolved Mobile (HCEMobile)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved-mobile-hcemobile.jpg",
+    "url": "https://hcemobile.com/",
+    "platform": "Xbox",
+    "facts": [
+      "needs your game files"
+    ],
+    "mark": "HCE",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "lego-island",
+    "name": "LEGO Island",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-lego-island.jpg",
+    "url": "https://isle.pizza/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "LI",
+    "tag": "CLASSIC"
+  },
+  {
+    "id": "minecraft-1-8-8-eaglercraftx",
+    "name": "Minecraft 1.8.8 (EaglercraftX)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-minecraft-1-8-8-eaglercraftx.jpg",
+    "url": "https://wasmarcade.com/minecraft",
+    "platform": "PC",
+    "facts": [
+      "plays instantly"
+    ],
+    "mark": "M18",
+    "tag": "SANDBOX"
+  },
+  {
+    "id": "moon-black-ops-zombies-vel-gg",
+    "name": "Moon (Black Ops Zombies, vel.gg)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-moon-black-ops-zombies-vel-gg.jpg",
+    "url": "https://vel.gg/bo1z/moon",
+    "platform": "PC",
+    "facts": [
+      "plays instantly"
+    ],
+    "mark": "MBO",
+    "tag": "ZOMBIES"
+  },
+  {
+    "id": "nacht-der-untoten",
+    "name": "Nacht der Untoten",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-nacht-der-untoten.jpg",
+    "url": "https://zombies.bitcoinsapi.com/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "NDU",
+    "tag": "ZOMBIES"
+  },
+  {
+    "id": "netquake-io",
+    "name": "NetQuake.io",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-netquake-io.jpg",
+    "url": "https://www.netquake.io/",
+    "platform": "PC",
+    "facts": [
+      "free demo, no game files needed"
+    ],
+    "mark": "NI",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "pro-evolution-soccer-6",
+    "name": "Pro Evolution Soccer 6",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pro-evolution-soccer-6.jpg",
+    "url": "http://pes6.optijuegos.net/",
+    "platform": "PC",
+    "facts": [
+      "multiplayer"
+    ],
+    "mark": "PES",
+    "tag": "SPORTS"
+  },
+  {
+    "id": "quake-ii",
+    "name": "Quake II (q2.pieter.com)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-ii.jpg",
+    "url": "http://q2.pieter.com/",
+    "platform": "PC",
+    "facts": [
+      "multiplayer"
+    ],
+    "mark": "QIQ",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "quake-iii-arena-q3-pieter-com",
+    "name": "Quake III Arena (q3.pieter.com)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-iii-arena-q3-pieter-com.jpg",
+    "url": "https://q3.pieter.com/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "QIA",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "quakeworld",
+    "name": "QuakeWorld (q1.pieter.com)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quakeworld.jpg",
+    "url": "http://q1.pieter.com/",
+    "platform": "PC",
+    "facts": [
+      "multiplayer"
+    ],
+    "mark": "QQP",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "return-to-castle-wolfenstein",
+    "name": "Return to Castle Wolfenstein (rtcw.pieter.com)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-return-to-castle-wolfenstein.jpg",
+    "url": "http://rtcw.pieter.com/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "RTC",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "runescape-classic",
+    "name": "RuneScape Classic",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-runescape-classic.jpg",
+    "url": "https://runescapeclassic.gold/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly",
+      "multiplayer"
+    ],
+    "mark": "RC",
+    "tag": "CLASSIC"
+  },
+  {
+    "id": "skate-3",
+    "name": "Skate 3 (fan browser game)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-skate-3.jpg",
+    "url": "http://skate.aaddpp.lol/",
+    "platform": "Xbox 360",
+    "facts": [
+      "needs your game files"
+    ],
+    "mark": "S3F",
+    "tag": "OPEN WORLD"
+  },
+  {
+    "id": "star-wars-jedi-knight-jedi-academy",
+    "name": "Star Wars Jedi Knight: Jedi Academy",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-wars-jedi-knight-jedi-academy.jpg",
+    "url": "https://jk.q3js.com/",
+    "platform": "PC",
+    "facts": [
+      "needs your game files",
+      "multiplayer"
+    ],
+    "mark": "SWJ",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "super-mario-64-multiplayer",
+    "name": "Super Mario 64 Multiplayer",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-64-multiplayer.jpg",
+    "url": "https://olivers.tools/play/",
+    "platform": "N64",
+    "facts": [
+      "multiplayer"
+    ],
+    "mark": "SM6",
+    "tag": "CLASSIC"
+  },
+  {
+    "id": "super-mario-zombies",
+    "name": "Super Mario Zombies",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-zombies.jpg",
+    "url": "https://smz.fun/",
+    "platform": "PC",
+    "facts": [
+      "plays instantly"
+    ],
+    "mark": "SMZ",
+    "tag": "ZOMBIES"
+  },
+  {
+    "id": "the-simpsons-hit-run",
+    "name": "The Simpsons: Hit & Run",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-the-simpsons-hit-run.jpg",
+    "url": "http://shar-wasm.cjoseph.workers.dev/?skipmovie",
+    "platform": "PC",
+    "facts": [],
+    "mark": "TSH",
+    "tag": "CLASSIC"
+  },
+  {
+    "id": "urban-terror-listed-as-unreal-tournament",
+    "name": "Urban Terror (ut.pieter.com)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-urban-terror-listed-as-unreal-tournament.jpg",
+    "url": "http://ut.pieter.com/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "UTU",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "wadcmd-doom-in-the-browser",
+    "name": "WadCMD (Doom in the browser)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
+    "url": "https://wadcmd.com/",
+    "platform": "PC",
+    "facts": [
+      "needs your game files"
+    ],
+    "mark": "WDI",
+    "tag": "SHOOTER"
+  },
+  {
+    "id": "claude-of-duty-vibe-slops-ii-froydinger-mirror",
+    "name": "Claude of Duty: Vibe Slops II (froydinger mirror)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
+    "url": "https://froydinger.github.io/claude-of-duty/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "COD",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror",
+    "name": "Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirr.jpg",
+    "url": "https://goofyahhbro69420.github.io/Black-Ops-2/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "COD",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "d07riv-diabloweb",
+    "name": "Diablo (diabloweb)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-d07riv-diabloweb.jpg",
+    "url": "https://d07riv.github.io/diabloweb/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "DD",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "kino-der-toten-goofyahhbro69420-mirror",
+    "name": "Kino der Toten (GoofyAhhBro69420 mirror)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-goofyahhbro69420-mirror.jpg",
+    "url": "https://goofyahhbro69420.github.io/COD-ZOMBIES/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "KDT",
+    "tag": "ZOMBIES"
+  },
+  {
+    "id": "kino-der-toten-theeagler1234-mirror",
+    "name": "Kino der Toten (theeagler1234 mirror)",
+    "image": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-theeagler1234-mirror.jpg",
+    "url": "https://theeagler1234-alt.github.io/kino-der-toten/",
+    "platform": "PC",
+    "facts": [],
+    "mark": "KDT",
+    "tag": "ZOMBIES"
+  },
+  {
+    "id": "custom-b305e94d-3853-4fc7-b841-382e8e1e3214",
+    "name": "Teleoperator",
+    "image": "https://mindblown-prod-public.s3.us-east-1.amazonaws.com/game-art/0e37f38c-08f2-47e1-97c5-9351f91eb66c/thumbnail-d6b4483ab22cbfb5.jpg",
+    "url": "https://teleoperator.mindblown.ai/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "TELEO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b3aab19c-e6e7-44cc-9a55-9b691c1f811c",
+    "name": "Roadster Rally",
+    "image": "https://roadster.game/assets/roadster-rally-social-v1.png",
+    "url": "https://roadster.game/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "RR",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-a93e1a85-97dd-4502-a1ea-dc02d4c0e60f",
+    "name": "Tekken Dark Resurrection Web Online",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDaljHYiPlW5lPgs5Lj-X0_j71datOuOj4kwwtASrkA&s=10",
+    "url": "https://tekkendr.live/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "TDR",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-206692d6-c1c5-4433-a2ca-9d41ecaa8eb3",
+    "name": "NFS Underground 2 Online | Juega en el navegador",
+    "image": "https://ported2browser.com/storage/covers/nfs-underground-2.webp",
+    "url": "https://nfsunderground2.site/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NU2",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-36234d7d-77e8-464e-a130-137b5525c919",
+    "name": "Play Matt Portner's Pro Skimboarder for Free on Wavedash",
+    "image": "https://uploads.wavedash.com/cdn-cgi/image/dpr=1,width=1200,height=675,fit=cover,format=jpeg/jd74jryrbrt4tx8qfcx6n1mve182fxx2/j97ayshk0g83hsbg2r4v0ppm9s883scg/assets/wideCover-1790187857432-3e5efb32.webp",
+    "url": "https://wavedash.com/games/matt-portners-pro-skimboarder",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "PMP",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-edbf5aa7-2f11-4a71-a0cf-f73917002813",
+    "name": "FIFA Street 2 · Web Online",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDlymHs5vFEAhAzz-ccOUvFD0sT1hodMrEE27cDQ80w&s",
+    "url": "https://fifastreet2.fun/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "FS2",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-ec4485ca-b0de-447e-bb9a-7f9b8d75eb23",
+    "name": "Budokai T3 · Web Online",
+    "image": "https://preview.redd.it/which-game-do-you-like-more-budokai-3-or-budokai-tenkaichi-3-v0-iifyh0s8w9ne1.png?width=640&crop=smart&auto=webp&s=beeaa396b32d3e59b499dd3bac64b7294a402939",
+    "url": "https://dragonballbt3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "BTW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-fb4d4524-d354-4fb1-9706-b1ae81b65aa0",
+    "name": "Super Mario Kart Remake",
+    "image": "https://thegamingemporium.com/Images/Games/super-mario-kart-in-browser.webp",
+    "url": "https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SMK",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-a7d6f614-9365-492b-b268-11877b3c1e91",
+    "name": "Super Smash Bros in Browser",
+    "image": "https://thegamingemporium.com/Images/Games/super-smash-brothers-in-browser.webp",
+    "url": "https://smash.fun/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SSB",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b035d84d-04f1-40c0-a423-f023e6a1c604",
+    "name": "Voxel Warfare",
+    "image": "https://voxel-warfare.mindblown.ai/thumb.webp",
+    "url": "https://voxel-warfare.mindblown.ai/?game&utm_source=x&utm_medium=social&utm_campaign=voxel_warfare&utm_content=argon4",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "VW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d6b7f976-07c0-4ad0-bc4d-4633ba72e719",
+    "name": "Play Pixel Martin: No Filter Fighters Game Online | Pixel Game",
+    "image": "https://pixelgame.io/game/martin-no-filter-fighters/martin-no-filter-fighters-banner.webp",
+    "url": "https://pixelgame.io/en/game/martin-no-filter-fighters/play/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "PPM",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-9aea5b31-7eb2-4ff4-b37f-0480a97b05ae",
+    "name": "nothalo · Choose a level",
+    "image": "https://thegamingemporium.com/Images/Games/nothalo-matchmaking-in-browser.webp",
+    "url": "https://nothalo.lol/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NCA",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-f068adf5-0159-4a56-9ce9-8a265262b231",
+    "name": "D2 Survivors",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBN5lc5RyN_qmweNEve29NTU3_vlRYDtNBYCj22XOx9w&s=10",
+    "url": "https://d2survivors.lol/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-c86633cf-c7ed-45cc-a75d-99321a97f185",
+    "name": "Riposte Frontline",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWTDU21fTAPIl7sIVg_foR9wUSY3wP1xj14jaQMfDRw&s=10",
+    "url": "https://www.playriposte.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "RF",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-00bddd16-8a26-4033-98cf-0644c2a98483",
+    "name": "NBA Street V3",
+    "image": "https://ported2browser.com/storage/screenshots/nba-street-v3-1.webp",
+    "url": "https://nbarecomp.xellrecomp.party/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NSV",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b2ab0b20-9e51-4d5d-bc8b-eab82a4d5bc5",
+    "name": "Taipei GTA",
+    "image": "https://foundplay.io/_next/image?url=%2Fmedia%2FsLeKsQzFdUZ99Tw2&w=828&q=75",
+    "url": "https://www.taipei-rush.app/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "TG",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-496ec4a3-7c05-484a-ae65-705f33e1f126",
+    "name": "GrandV V2",
+    "image": "https://pbs.twimg.com/media/HUkVnH5bcAAr6Le?format=jpg&name=small",
+    "url": "https://v2.fiveplay.lol/launcher.html",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GV",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-0fc1d7f4-1c80-4c31-af6f-310245f08bf4",
+    "name": "ALL-22 PRO · Pokémon Football",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmD5tMerWiskzt0TkKCqJBavkoZj44KVPtxf8oX18nw&s=10",
+    "url": "https://all22pokemon.com/pro",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "A2P",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-7bb5e827-4719-4fef-8c96-60fbea7a0330",
+    "name": "Link's Arena",
+    "image": "https://ported2browser.com/storage/covers/links-arena.webp",
+    "url": "https://linksarena.pages.dev/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "LSA",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b1dd7898-6c61-499b-a9a9-c258641a0d12",
+    "name": "GTA2 in your browser",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ACpoB00sGaCgtrezvQ_nnT6nEmXyRyIB2lbbW0_GVg&s=10",
+    "url": "https://m1stermo.github.io/gta2/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GIY",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-f8ccb210-0f2c-4d94-a021-f83d1a2aa7c8",
+    "name": "Friday Fighters",
+    "image": "https://images.complex.com/complex/image/upload/c_crop,h_1080,w_1944,x_0,y_0/g_auto:aoi_778_432_389_216,q_auto,f_avif,c_fill,ar_1.80,w_1400/sanity-new/pist8z6rcq6q7f0bntir",
+    "url": "https://fridayfighters.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "FF",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-95a4a0f0-0d3f-465b-b9f4-ecedfd01e246",
+    "name": "FIFA 10 Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKW3y0ceKslQ_MVAz_2ntNcNHtyrxv9HHLBzwsIx2pg&s=10",
+    "url": "https://fifa10.website/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "F1O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-ffc75ddc-edfa-44f7-bc5d-ffe84084ee3a",
+    "name": "d2o",
+    "image": "https://d2o.quest/og.png",
+    "url": "https://d2o.quest/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "D2O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-6b909a25-1223-48f5-8b2c-c55a484f62e3",
+    "name": "FighterZ Tactics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTl9DE8AKWm7y5nTik4MAQWnDfjSoYE9EZUsmZjEWkHw&s=10",
+    "url": "https://dragonballtft.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "FT",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-904f484c-eca9-4d6c-910d-71aba37f0b1e",
+    "name": "Need for Speed: Most Wanted — Web Port by dezm0n",
+    "image": "https://img.itch.zone/aW1nLzMwNzA0MTM1LmpwZw==/original/xdAcEd.jpg",
+    "url": "https://dezm0n.itch.io/nfs-most-wanted-web-port",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NFS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-fdeae322-3377-4afa-9a74-80bca46bc30b",
+    "name": "PES 2011 Web Port",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7ZvI327PgH76sDf3wpG_slqHMUSul9Mlr6Wssgq-kw&s=10",
+    "url": "https://pes11.optijuegos.net/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "P2W",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-85a4c91d-5afa-4d9e-8af6-e50c75eef1a1",
+    "name": "Midnight Club 3 DUB Edition Web Online | Juega en el navegador",
+    "image": "https://pbs.twimg.com/media/HVCZfQTXsAArZfr?format=jpg&name=small",
+    "url": "https://midnighhtclub3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MC3",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-1864149c-5207-4f49-9e70-0e72c3428283",
+    "name": "FIFA 14 Web Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQV41VthszrsKwiOOqLBLQfHUTOm-do1zsCX2cSzt5w&s=10",
+    "url": "https://fifa14.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "F1W",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-671db078-73aa-4b30-8a1c-ef2d615113c2",
+    "name": "WWE SmackDown vs. Raw 2011 Web Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6dedlt8BMaQ-XiBLS4ZAZVrGWoH0yKRo1hUFBpmG4_w&s=10",
+    "url": "https://wwe2011.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "WSV",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-572c4af0-c1ec-4b0b-9372-dc02d2572e3a",
+    "name": "Silent Hill Origins — Arranque automático",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMak-Rga9plvl0nqwlvKIFVdGQDHmsYO_D58HBa3uUxA&s=10",
+    "url": "https://silenthillorigins.zeliaopen.space/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SHO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-13586914-3155-43e2-9b72-5f59444bde1c",
+    "name": "Road Rash",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSDDuGnpN13aAOWHFha7N0SlXKaqwD3latcnIV347qA&s=10",
+    "url": "https://roadrash.pages.dev/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "RR",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-0888b98b-6dcb-43e5-9394-c0e3605991bf",
+    "name": "Boondocks Brawl",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTd-g1lbGACJtiaZR9pHxkQEFocqsZMe9NE1Hxn-c6g&s=10",
+    "url": "https://boondocksbrawl.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "BB",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-efb6b355-6575-4220-9b95-a687973a13bd",
+    "name": "Guitar Hero Browser Edition",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVEzHp7fG8A_yukq4IxCoCdEjfJ2ZJPIJLBEzUBQcQQ&s",
+    "url": "https://gh3.thediaryofchris.net/index.html",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GHB",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-53430d1d-7db8-454e-bba9-8b6a105538a3",
+    "name": "Crash Bash Online Multiplayer With Friends | PS1 Game",
+    "image": "https://crashbash.app/og.jpg",
+    "url": "https://crashbash.app/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "CBO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-8dcd9a51-5e85-49cb-997b-fb4ebf4c8c0f",
+    "name": "derby",
+    "image": "https://cdn.genex.technology/covers/cmspoybpc01e72ro1pb3prvqd.webp?v=1786515127657",
+    "url": "https://genex.games/derby",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DERBY",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-9e84ea5e-595d-429a-990f-90f990785a3c",
+    "name": "Super Monkey Ball",
+    "image": "https://www.inxanitylabs.com/assets/games/thumbs/super-monkey-ball-art.webp",
+    "url": "https://monkeyball-online.pages.dev/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SMB",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d1330a90-3869-4a43-bcac-53e9f2afab38",
+    "name": "Pokemon: 3D Arena (preview) by jackijianxa",
+    "image": "https://img.itch.zone/aW1nLzMwOTIzODMyLnBuZw==/original/d04QTm.png",
+    "url": "https://jackijianxa.itch.io/pokemon3darena",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "P3A",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-042d1147-288e-4195-b224-2573cb76d976",
+    "name": "Dragon Ball Z: Budokai 2 Web Online",
+    "image": "https://ported2browser.com/storage/covers/dbz-budokai-2.webp",
+    "url": "https://budokai2onlline.cc/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DBZ",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-911da887-1dc6-40bd-a503-0a80e03ad16d",
+    "name": "Fallout Nevada & Sonora",
+    "image": "https://ported2browser.com/storage/covers/fallout-nevada.webp",
+    "url": "https://fallout-nevada.ru/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "FNS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-5b953862-01fa-48a9-9302-a06c372fd06e",
+    "name": "KAREN WARFARE",
+    "image": "https://vibez.club/media/posters/x-2112410589104681124.jpg",
+    "url": "https://karenwarfare.fun/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "KW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d39161fa-cab9-4866-9208-5361e7bb2492",
+    "name": "Naruto Shippuden Ultimate Ninja Impact Web Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FrsICwt3uGc5AIx2Ag0m6OSU4mHqwWXY6pYTMKMybA&s=10",
+    "url": "https://narutoimpact.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NSU",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-65f45285-0b99-40af-b9d5-26e793e7bd56",
+    "name": "Mortal Kombat: Shaolin Monks Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWiEa-v847MIUOFrDipva532TXxMrYPmpWqpXIKPY3g&s=10",
+    "url": "https://mortalkombatsm.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MKS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-fab91d93-e5b7-4782-b4ed-bb65805989ea",
+    "name": "SmackDown! Here Comes the Pain Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKF8A1O-6OZ-ibuKcNx0vTAkdjmE899WJM9wTxD8UnA&s",
+    "url": "https://wwepain.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SHC",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-56eed703-de03-4483-ba16-fbc138a65238",
+    "name": "Burnout 3 Online | Conduce gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnGK_A8xgtQIeEdOq2Jk4hin2rv1J1yo9QL3KNItkuWA&s",
+    "url": "https://burnout3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "B3O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-f20e08a2-bed6-4a55-b369-63f0e866a571",
+    "name": "Def Jam: Fight for NY Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZqYokn74ZomoYIxSl-9ooHJAM_lo9JN3myISGNLMYg&s=10",
+    "url": "https://def-jam.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DJF",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-cc722e91-f162-4d51-87e8-e13dc0bfb3e3",
+    "name": "FIFA 12 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0hDIhX4g_yECaCSl9ez8s8IJVwHUyoPudKtDq1jB1w&s=10",
+    "url": "https://fifa12.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "F1O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-a33c566a-8f17-4d94-a349-83678b0c8917",
+    "name": "Gran Turismo 4 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYfz3ygzjllbwQ8DxXRXw3SrvaByij4AhXiH9u9ACEDQ&s=10",
+    "url": "https://granturismo4.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GT4",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-667b1221-bb6a-4666-aecc-bd509c8bee74",
+    "name": "FIFA Street Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvylJNNvHCraH1XupYnBj_hrLJpcpOt0Ot1PMuoB1qwQ&s=10",
+    "url": "https://fifastreet.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "FSO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-26d7d2e5-9470-4538-a89a-2f84fa4a6d85",
+    "name": "NIL Street: Play NFL Street 2 Online",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzidPRa8gbXED4eoeMZDaV3Wwjxyw2-wTjCrSJjTj8uQ&s=10",
+    "url": "https://nilstreet.playthecombine.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NSP",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d2b7bb1f-1745-4433-928a-b0a1f3376ca7",
+    "name": "Marvel vs Capcom 2 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp6b_NzHhJlorTKHcRK030Py_b5qWIuZDlspcHsocUQ&s=10",
+    "url": "https://marvelvscapcom2.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MVC",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-e2ae137f-c542-45a8-a372-b37bebae2a4d",
+    "name": "Street Fighter Anniversary Collection Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNd9JubtFNlcA9C940bjey0VZAOYAdO09g82kiA1gOQ&s=10",
+    "url": "https://streetfighteranniversary.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SFA",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b0b5852d-6bf0-481a-9b0f-8d3b51ec5375",
+    "name": "Dragon Ball Z Budokai Tenkaichi 2 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDHsf8cTZ6U0AGix2g71lHzVP1V5r9Zc3AuOV0JHEeQ&s=10",
+    "url": "https://dragonballbt2.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DBZ",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-1d9caafe-1601-4775-8f3c-81d2958402a1",
+    "name": "Battle Stadium D.O.N Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBucA1GZsP7Hibc3giI3u_fLcPbKgMNnamW_F2Xpjvg&s=10",
+    "url": "https://battlestadium.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "BSD",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b20f9e6c-7ffb-4db2-8793-43ac06ee8b68",
+    "name": "FIFA 11 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNflHcmRqasmSIzHxoNkAHWz4ljbVqIrxUOKhzHfiJyA&s=10",
+    "url": "https://fifa11.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "F1O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-ed90299b-52b2-4b2b-b4fa-3851e802b6b9",
+    "name": "FIFA 13 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cO4U7eCazmz5QT4Wr1GaUaBuqVPaRmHlpKlJPFWLLQ&s=10",
+    "url": "https://fifa13.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "F1O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-ba108fcd-94b8-46b6-9c61-6286c1680af1",
+    "name": "Dragon Ball Z Budokai 3 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKpViSkqVT5XkJW3WQ2XDrdAP0AACfet-syb9FSa6fA&s=10",
+    "url": "https://dragonballbudokai3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DBZ",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-bbad185b-726b-49ec-97c5-461b98595580",
+    "name": "Tony Hawk's Underground 2 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-u2J4xB3wNc8NzuY7B8V4sLv6q67zAVWFu5WfwubTXQ&s=10",
+    "url": "https://tonyhawksunderground2.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "THS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-58c78b32-93c1-4ecc-9629-0be33ff7072d",
+    "name": "Mortal Kombat: Armageddon",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcAw8ZPSw_gJEmGopV7FfmMz248z9i7vcLPhuRiKQxA&s=10",
+    "url": "https://mka.lauta.site/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MKA",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-9ff0b0ba-9de4-4f2d-997a-eb882b14e19a",
+    "name": "GTA: Vice City",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHE4hyo41DIVWJIhm5tlP7EcSDw5yIqzSvYnxtn0Te0g&s",
+    "url": "https://gta.rabisco.net/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GVC",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-09ed50c3-a2e3-4747-9b7a-57cc3b0a0c80",
+    "name": "Downhill Domination Online",
+    "image": "https://imgs.search.brave.com/Vpxfbz2eGs8Ze8hV6Wl4vWHWohEBbv6NKSErbCbLxck/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbGNo/ZXRyb24uY29tL2Nk/bi9kb3duaGlsbC1k/b21pbmF0aW9uLTMz/MWRkOTJkLWM3NGQt/NGE1Ny05YmE5LWEz/Mzc4OGU2MDUwLXJl/c2l6ZS03NTAuanBn",
+    "url": "https://downhilldomination.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DDO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d328e873-a31d-4279-883d-984a61ad3f2a",
+    "name": "Resident Evil Outbreak",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzoS19fIGz2h0sqrVTQ2Gf9jdTUz9lWPdhmc1-yHzgw&s",
+    "url": "https://outbreakweb.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "REO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-29cd08f4-6c30-4dc2-b3cf-d176da49b19a",
+    "name": "Tekken 5 Online",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaR5Z4-sgtHdAct4A5p8_tpDPhI_u-BBHa4mTmZL2O0Q&s=10",
+    "url": "https://tekken5.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "T5O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-f9593429-b4c7-44fd-b9ae-72d498bde433",
+    "name": "F1 06 Online (Formula One 06) | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMLwTetAujCDEW382bhWHlRAipvA_6e8_jn_tSe_mMg&s=10",
+    "url": "https://f12006.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "F0O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b631c7b6-edfd-49e6-8d3f-07b561a8a204",
+    "name": "Tekken 4 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bpBI8rQufI4Ky7NSj-K7TZlbmOP4C4MIBE0MyF3qCg&s=10",
+    "url": "https://tekken4.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "T4O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-1d87b9d9-2911-4ed7-a8de-d3437a3f6ff4",
+    "name": "Cyberpunk 2077 - WORK IN PROGRESS",
+    "image": "https://ported2browser.com/storage/covers/cyberpunk-2077.webp",
+    "url": "https://cyberpunk2077.lol/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "C2W",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-8325c833-11f5-4cca-9000-08adf7e2f997",
+    "name": "Street Fighter III 3rd Strike Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyQHw4UCKRzrYzWg_MjtaHQ-PlbUZpEW0oqaJ5H0MWA&s",
+    "url": "https://streetfighter3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SFI",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-e02f48c1-25af-4dee-b104-8f3ed2676cc4",
+    "name": "Madden NFL 08 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTff0Jsp35Q0bC4SITI9BgGAatjBXLeb-VP4UrFYLOW9w&s=10",
+    "url": "https://maddennfl08.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MN0",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-f498a081-b061-4628-8aa6-10d0888d164c",
+    "name": "WWE SmackDown vs. Raw 2010 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWnRb1mUAB-1HoVUGAKPT4DthGpFI22O7jDGTe4pY76w&s=10",
+    "url": "https://wwe2010.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "WSV",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-fc44c035-6ebf-46d8-9891-1e57ac2174a6",
+    "name": "NFL Street Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEhvnDMdwc5M43lXbBB7JbBE9TVS2cAe4wWlc4S7UQ&s=10",
+    "url": "https://nflstreet.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NSO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-e97926c4-6997-47f6-a4f7-5dc3a3dd366a",
+    "name": "SSX 3 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDMeQTh9f2h8okD3plipA2fLny8gVNxmJhQDcg1IWRg&s=10",
+    "url": "https://ssx3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "S3O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-e14fdae7-424e-4126-bd7f-204b464aceb5",
+    "name": "NBA Street V3 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlaq1j14N2IAps-lk9zLjajY3xASF8ir6gHYXOjbEO_w&s=10",
+    "url": "https://nbastreet3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NSV",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-9a1af584-d8c0-42d3-a3f7-e3c5751b870f",
+    "name": "WWE SmackDown vs. Raw 2011 Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl37TCzjPf3JgIFbpVeidmCvo9q9z5o6k237Np27k1-g&s=10",
+    "url": "https://wwe2011.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "WSV",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-f510e7ee-a19d-4c85-a0b9-86d385d0ce38",
+    "name": "ALL-22 SLUGGER · Pokémon Baseball",
+    "image": "https://pbs.twimg.com/media/HVLkluaXcAA_Gft?format=jpg&name=small",
+    "url": "https://all22pokemon.com/slugger",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "A2S",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-e19e45eb-425d-412f-b450-5594b79a991d",
+    "name": "The Warriors Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMTNjUQsuowy8pU1bHx60gvWflGglBhNjU-HT_Cfzyg&s=10",
+    "url": "https://thewarriors.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "TWO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-89a4fc50-54a2-4053-a5e5-b1b3ae5c4d62",
+    "name": "NBA 2K12 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzhcYMut4dx9d0fqi-7JbzcsQdoNNx47CPG4BF9oKyQ&s=10",
+    "url": "https://nba2k12.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "N2O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d68d5388-39fd-4c0b-ab38-49c2bad67f52",
+    "name": "Naruto Shippuden Ultimate Ninja 5 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAsXdfFqzsOsH6f_JE1UB2mbvkCXIlVUlzPanPRyyU5Q&s=10",
+    "url": "https://narutoshippuden5.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "NSU",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-bf65a110-8adf-41ab-9f21-a4757df43e7c",
+    "name": "UFC Throwdown Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslfCFXPJ2OU7XDsHHY7PCG8-KcZdh2bHirKIHmGeKpg&s=10",
+    "url": "https://ufc2.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "UTO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-b40a3373-622b-4921-b820-706003dfd0bc",
+    "name": "PES 2012 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmfXXW7D9T4wXleOYkLb1Rpl5-IsnkrsMzolrLlbY2A&s=10",
+    "url": "https://pes12.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "P2O",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d8956141-2cd7-4d69-bdcf-1a05ab1b408a",
+    "name": "Resident Evil 4 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCEjYFFW-Bll1TAI9yw45I7CIARzCgJO3u6AKbv5f-A&s",
+    "url": "https://residentevil4.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "RE4",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-1adb5e36-5b83-4242-885c-9b0ee0f2669d",
+    "name": "Rugby 08 in the browser",
+    "image": "https://mitchivin.github.io/rugby08/pwa/social-preview.png",
+    "url": "https://mitchivin.github.io/rugby08/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "R0I",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-e9023099-b385-4243-8a1e-d180f072c9d8",
+    "name": "Tony Hawk's Pro Skater 3 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4J8pfI95dSCt87NP5KZ_cqaHlcfKvPzzB_pZNSRHVQ&s=10",
+    "url": "https://tonyhawkpro3.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "THS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-3a9c9313-0fa6-4d28-a365-507e0192b216",
+    "name": "Spider-Man 2 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJLes2LeI5UpfMNFbYZe6vN15csPfIKSvyvmH2M2cSQ&s=10",
+    "url": "https://spiderman2.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SM2",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-0d647136-5a9a-45bc-826a-e240f986fd79",
+    "name": "PES 2014 Web Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHGgK4uUWrm2fHKDho_Rl5shmsXst1CyeTA8RZwN-7A&s=10",
+    "url": "https://pes14.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "P2W",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-6be37901-9eff-4287-be4f-a89f1580af99",
+    "name": "Monster Hunter Freedom Unite Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7tQYbgwxprWpIhKRDZCex1Si8MfhIjZo9zH0MTpNfg&s=10",
+    "url": "https://mhfu.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MHF",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-677d4f8c-660c-4a5d-9dd8-30bcdd3662a2",
+    "name": "God of War: Chains of Olympus Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyCnEWk3wws40dsV-_q16nPQ3OjJBjr5KrbUSiWvrgQ&s=10",
+    "url": "https://godofwarchains.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GOW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-eaf0ea6d-8457-41cc-986d-b41d0279d819",
+    "name": "Ratchet & Clank: Size Matters Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hOqDILql94gk2e224W9L3yv7c1d8HOtpmXoDej3Q6Q&s=10",
+    "url": "https://ratchetclanksizematters.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "RCS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-c6a24235-9b5b-4e93-ab94-8abb67e4eb4e",
+    "name": "Jak and Daxter: The Lost Frontier Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk0IBagQhuYCTeyPxge7g843GYEcEk-Op0YYEgO1r6g&s=10",
+    "url": "https://jakdaxterlostfrontier.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "JAD",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-67bbce4c-a275-49d6-8544-0970364e2624",
+    "name": "Crisis Core: Final Fantasy VII Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOEXoUDs_f9gAIsYUjN2V3HsB34ctOq8GQkbVB-5SUA&s",
+    "url": "https://crisiscorefinalfantasy7.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "CCF",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-014d404e-4621-44da-b0ec-ce033606c1a5",
+    "name": "Virtua Tennis 2 Online | Juega en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQNH7hmuCnNFzXMo2LY1-vTuim1sbKc971LHAF9uUieg&s=10",
+    "url": "https://virtuatennis2.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "VT2",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-7be06ca3-aa29-4ef5-8ea7-706f64a85c0a",
+    "name": "God of War: Ghost of Sparta Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiipIqZs6gnIelzKvrSSnFjmlB_8hXKcNFR8bXpWp0Nw&s",
+    "url": "https://godofwarsparta.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "GOW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-4cb74925-e8b7-425f-a95f-a82bcaaad198",
+    "name": "Kingdom Hearts Birth by Sleep Online | Juega gratis en el navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThz3EmEGEc6tvc0_2K3n6m3s3UYQBVgNIjoLmvOJOL5w&s=10",
+    "url": "https://kingdomheartsbbs.online/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "KHB",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-67158eca-31e2-47e7-a096-685389123e87",
+    "name": "Poké Jam",
+    "image": "https://pokejam.xyz/og.png",
+    "url": "https://pokejam.xyz/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "PJ",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-cf1844c1-39e3-4a1e-8756-a06253ac44cd",
+    "name": "Pokémon Park Tycoon on Spawn",
+    "image": "https://www.spawn.co/api/og/box?owner=smallzero&game=pokemon-park-tycoon&pic=face&k=ogbcyg",
+    "url": "https://www.spawn.co/@smallzero/pokemon-park-tycoon",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "PMP",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-5c75229d-4a24-4a57-922b-62453abb3645",
+    "name": "PokéIsaac",
+    "image": "https://thegamingemporium.com/Images/Games/manager-4089-2cf8ed116a7b960a.webp",
+    "url": "https://pokeisaac.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "PI",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-054d3a29-c0f1-42e8-9636-f9a3a666acb9",
+    "name": "PokéBonk · Survivor 3D de Pokémon gratis en el navegador",
+    "image": "https://pokebonk.com/social/card-es.jpg",
+    "url": "https://pokebonk.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "PBS",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-95cb7734-8e0d-4af4-995b-6b278717843b",
+    "name": "Dragon Ball Devolution - Txori",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDCeMEjH819IFYQmIDOqtvWxUqNQnOjt_6spBPIINbQ&s=10",
+    "url": "https://www.txori.com/dbdevolution",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DBD",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-19b82cab-9083-436e-9bc2-5c9c419e7ddb",
+    "name": "Zeldamon",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6ecWSh-PY0pKUM5XvyflAfNTs0YCaqGQT3kBRRUX-A&s=10",
+    "url": "https://zeldamon.pages.dev/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "ZELDA",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-3fcc9355-25f2-4595-988f-fbd89d06895c",
+    "name": "Diablo Survivors on Spawn",
+    "image": "https://www.spawn.co/api/og/box?owner=izkimar&game=diablo-survivors&pic=face&k=1rjwca1",
+    "url": "https://www.spawn.co/@izkimar/diablo-survivors",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "DSO",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-d07a6d20-eb67-4655-8ff5-3d32a969c55c",
+    "name": "Mortal Kombardo 9",
+    "image": "https://pbs.twimg.com/media/HVorWtpW8AADHqU?format=jpg&name=small",
+    "url": "https://mk9.lauta.site/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "MK9",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-54c7deae-c933-44dc-b856-796159bd7534",
+    "name": "SoulCalibur II · Web Online · 60 FPS",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3QIioeJFEO7T9qqpoUVSSdEEmT1oZbu928gOYP_ivg&s=10",
+    "url": "https://soulcalibur2online.cc/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "SIW",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-ba18efee-2e63-4027-a947-80622c9b4875",
+    "name": "Front Line — Free Multiplayer FPS in Your Browser",
+    "image": "https://frontlinefps.com/assets/og/frontline-share-2026-10.jpg",
+    "url": "https://frontlinefps.com/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "FLF",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-7508c79e-0ecd-4281-99e0-138a917b28cf",
+    "name": "AF Sim Racing | Juego de carreras online en navegador",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRro2-agFT4e6_SzCDCrjrQwqVmzATBTAjFRzoNDGgkfw&s=10",
+    "url": "https://afsimracing.com.ar/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "ASR",
+    "tag": "BROWSER GAME"
+  },
+  {
+    "id": "custom-ca7f4f56-f12e-4779-8846-db1e72c06f9a",
+    "name": "PES 6 Web Online Port",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Tu_VkNt-BgU11CChIXSGhCeALAR6lbSte6Q8hy-1Pg&s=10",
+    "url": "https://pes6.optijuegos.net/",
+    "platform": "Browser",
+    "facts": [],
+    "mark": "P6W",
+    "tag": "BROWSER GAME"
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "summary": "The earlier font tweak was too small to see, so the hero now uses the Dino Lab headline scale: TARZ0-777 at clamp(3.25rem, 13.5vw, 11.5rem) and the two lines play games in / your browser at clamp(2.4rem, 9.6vw, 8.25rem), Pixelify Sans 400, line-height 0.82, letter-spacing -0.4px. The kicker is Montserrat 24px weight 600 with 0.18em tracking. Words, games, logo, and links are unchanged. Clouds were moved off the letters. Checked on localhost:5173.",
+  "current_status": "TARZ0-777 is a Vite/React catalog of 145 browser games in the Dino Lab visual system. The hero type now matches the reference sizes. Logo, X credit, and play links stay as they were."
+}

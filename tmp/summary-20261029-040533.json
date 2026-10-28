@@ -1,0 +1,4 @@
+{
+  "summary": "Added a bottom footer credit, built by @shan_dharan, linking to https://x.com/shan_dharan. Removed the unused admin page, local store, react-router, old site logo, and leftover admin CSS. The arcade still lists all 145 games.",
+  "current_status": "TARZ0-777 is a single public page with the Dino Lab style, the full game catalog, and the X credit in the footer."
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt bitrunlog.com as a Vite + React arcade with all 145 game names, cover images, and play URLs. Search, instant/files/multiplayer filters, and the admin control room work locally. Play and Open links go to the real game URL in a new tab. The original ad-network tab hijack was left out. Dev server is running at http://127.0.0.1:5173/ and admin password is bitrunlog.",
+  "current_status": "Frontend rebuild is complete and verified in the browser: 145 cards, working search and filters, and admin list with 145 openable links. Local preview is up on port 5173."
+}

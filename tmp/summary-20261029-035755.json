@@ -1,0 +1,4 @@
+{
+  "summary": "Restyled the arcade to the Dino Lab pixel UI: light grid, Pixelify Sans headlines, magenta buttons, and hard black shadows. The brand is now TARZ0-777. All 145 game names, covers, and play URLs remain, and search plus filters still work. Verified desktop hero, the game grid, the instant-play filter (12 games), and the phone header.",
+  "current_status": "TARZ0-777 public page uses the Dino Lab visual system with the original game catalog. Dev server is on http://localhost:5173/."
+}

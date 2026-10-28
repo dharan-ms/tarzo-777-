@@ -1,0 +1,4 @@
+{
+  "summary": "Matched TARZ0-777 typography to the Dino Lab screenshot without changing site copy. Display text (hero, section headings, brand, buttons, ticker, cards, footer credit) is now Pixelify Sans weight 400 with -0.4px letter-spacing and a 0.82 line-height on the hero, sized up to 108px. Body, kicker, and intro stay Montserrat. Browser check on localhost:5173 confirmed the loaded faces and that the catalog, logo, and wording are unchanged.",
+  "current_status": "TARZ0-777 frontend is a Vite/React directory of 145 browser games in the Dino Lab visual system, with the controller logo, X credit, and Pixelify/Montserrat type now matching the reference. Admin, router, and the original ad redirect stay removed."
+}
