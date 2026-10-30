@@ -1,0 +1,4 @@
+{
+  "summary": "Reverted the genre categories at the user's request. Removed the genre buttons, genre state, and styles; game cards and the ticker show the original tags again; the genre field was removed from all 145 games, so games.json matches the original apart from a trailing newline. The production build passes.",
+  "current_status": "TARZ0-777 is a Vite/React catalog of 145 browser games with search, four play-type filters, the animated pixel hero, logo, and X credit. Run npm run dev to view it."
+}

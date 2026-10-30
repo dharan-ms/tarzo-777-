@@ -241,7 +241,7 @@ export default function Home() {
   const tags = useMemo(() => {
     const unique = [...new Set(games.map((game) => String(game.tag || "browser").toLowerCase()))];
     return unique.length ? unique : ["arcade"];
-  }, [games]);
+  }, []);
 
   const counts = useMemo(
     () => ({
@@ -263,7 +263,7 @@ export default function Home() {
         (active === "multiplayer" && game.facts?.includes("multiplayer"));
       return matchesFilter && (!q || text.includes(q));
     });
-  }, [active, games, query]);
+  }, [active, query]);
 
   const ticker = [...tags, ...tags];
 
@@ -444,12 +444,7 @@ export default function Home() {
           <a className="pixel-btn" href="#arcade">play now</a>
         </div>
         <p className="legal">© {year} TARZ0-777. All game links stay with their own sites.</p>
-        <p className="built-by">
-          built by{" "}
-          <a href="https://x.com/shan_dharan" target="_blank" rel="noopener noreferrer">
-            @shan_dharan
-          </a>
-        </p>
+        <p className="built-by">built by @shan_dharan</p>
       </footer>
     </div>
   );

@@ -1,0 +1,4 @@
+{
+  "summary": "Sorted all 145 games into 11 genres by title and saved a genre field on each game in games.json: fight 29, sports 27, shooter 24, racing 12, open world 10, action 10, horror & zombies 9, rpg 8, adventure 6, party 6, strategy 4. Added a row of genre buttons with counts above the play-type filters; the two combine with search. Game cards and the ticker now show the genre. Checked in the browser that fight shows exactly 29 fighting games. Restarted the dev server because it had stopped.",
+  "current_status": "TARZ0-777 is a Vite/React catalog of 145 browser games with genre categories, play-type filters, search, the animated pixel hero, logo, and X credit."
+}

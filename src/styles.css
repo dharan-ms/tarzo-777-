@@ -255,7 +255,6 @@ button, input { font: inherit; }
 .filters { display: flex; gap: 8px; overflow: auto; padding-bottom: 4px; }
 .filter { background: var(--white); color: var(--ink); padding: 10px 14px; font-family: "Pixelify Sans", sans-serif; font-weight: 400; font-size: 18px; letter-spacing: -0.4px; white-space: nowrap; }
 .filter[aria-pressed="true"] { background: var(--pink); color: var(--white); }
-
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
 .card { min-width: 0; overflow: hidden; transition: transform 0.15s; }
 .card:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--ink); }
@@ -290,8 +289,6 @@ button, input { font: inherit; }
 .legal, .built-by { grid-column: 1 / -1; margin: 8px 0 0; text-align: center; }
 .legal { font-size: 13px; }
 .built-by { margin-top: 0; font-family: "Pixelify Sans", sans-serif; font-weight: 400; font-size: 22px; letter-spacing: -0.4px; color: var(--ink); }
-.built-by a { display: inline; color: #9a1860; }
-
 @media (max-width: 980px) {
   .grid, .stats, .levels ol, .footer, .hero-copy { grid-template-columns: 1fr 1fr; }
   .footer { grid-template-columns: 1fr; }
