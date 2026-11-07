@@ -1,0 +1,4 @@
+{
+  "summary": "Removed the link to x.com/shan_dharan from the footer; the credit now reads 'built by @shan_dharan' as plain text, and the unused link color was removed. Build passes. Committed the source changes and chat summaries as aac26be and pushed to main on github.com/dharan-ms/tarzo-777-. Vite cache changes under node_modules were left uncommitted. The repo tracks node_modules and has no .gitignore.",
+  "current_status": "TARZ0-777 is live on GitHub main: a Vite/React catalog of 145 browser games with search, four filters, the animated pixel hero, logo, and a plain-text credit."
+}

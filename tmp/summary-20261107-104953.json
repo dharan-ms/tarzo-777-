@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the Need for Speed: Most Wanted play URL (dezm0n itch.io page) with https://nfsmwonline.com/login in games.json; name and cover unchanged. The new URL returns HTTP 200. Not committed or pushed yet.",
+  "current_status": "TARZ0-777 is a Vite/React catalog of 145 browser games. Need for Speed: Most Wanted now opens nfsmwonline.com. GitHub main does not include this change yet."
+}
